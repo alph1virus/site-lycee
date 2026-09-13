@@ -15,3 +15,12 @@
   max-width: 200px;
   object-fit: contain;
 }
+
+.lienpage {
+  text-align: center;
+  word-spacing: 100%;
+}
+
+.pied {
+  text-align: center;
+}
