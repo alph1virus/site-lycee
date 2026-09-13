@@ -16,6 +16,10 @@
   object-fit: contain;
 }
 
+a {
+  text-decoration: none;
+}
+
 .lienpage {
   text-align: center;
   word-spacing: 100%;
