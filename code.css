@@ -1,5 +1,5 @@
 body {
-  background-color: antiquewhite;
+  background-color: darkgray;
 }
 
 .banniere {
@@ -21,15 +21,21 @@ body {
 }
 
 a {
-  text-decoration: none;
+  
   color: black;
 }
 
 .lienpage {
   text-align: center;
-  word-spacing: 1000%;
+  word-spacing: 100px;
+  border: 2px solid black; padding: 15px;
+  background-color: lightblue;
 }
 
 .pied {
   text-align: center;
+}
+
+.search {
+    text-align: right;
 }
